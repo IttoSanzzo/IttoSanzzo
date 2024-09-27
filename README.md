@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## [![wakatime](https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg)](https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32)
+
+## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ittosanzzo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ![IttoSanzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ittosanzzo&count_private=true&show_icons=true&theme=Default)
+
 <!--
 **IttoSanzzo/IttoSanzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

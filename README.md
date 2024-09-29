@@ -24,18 +24,22 @@
 <hr>
 </details>
 
-<h2 align="center">◃Waiting▹</h2>
-
-## [![wakatime](https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg)](https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32)
-
-## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
-
+</details>
+<details align="center" open>
+  <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
+<hr>
 <p>
 
 <img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
 <img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
 
 </p>
+<hr>
+</details>
+
+## [![wakatime](https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg)](https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32)
+
+## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
 
 <hr>
 <h3>≽ Connect with me</h3>

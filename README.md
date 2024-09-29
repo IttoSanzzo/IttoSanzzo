@@ -28,8 +28,8 @@
 </p>
 <p>
 
-<img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
 <img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
+<img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
 
 </p>
 

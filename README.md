@@ -7,7 +7,6 @@
 <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=IttoSanzzo&label=Profile%20Views&color=6&icon=0&pretty=false">
 <a href="https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32"><img alt="Wakatime" src="https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg"></a>
 </p>
-</div>
 <hr>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
@@ -18,6 +17,7 @@
   <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
 <hr>
 <p>
+</div>
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6">
 

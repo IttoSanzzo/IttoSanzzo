@@ -10,7 +10,7 @@
 <hr>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
-<img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
+<img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,figma,linux,mysql,postgresql" alt="Languages and Tools">
 </a>
 <hr>
 <p>

@@ -1,6 +1,6 @@
 <h1 align="center">&ltItto Sanzzo&gt</h1>
 <p align="center">『A Software Engineer, a Gamer and even a Otaku, imagine that.』</p>
-<p align="center"><img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
+<p align="center"><img width=600px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
 
 <details align="center" open>
   <summary><h2 style="display: inline">◃Languages and Tools▹</h2></summary>

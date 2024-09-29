@@ -43,6 +43,5 @@
 
 -   Feel free to message me about anything, professional things, unprofessional things, code related or not, even if it's just for weeb stuff 🍵.
 -   If you wanna contact me, Discord is probably the best way to do it.
-<hr>
 
 <img alt="Cat" src="https://i.postimg.cc/vmfzsv3M/CatBbbb.png">

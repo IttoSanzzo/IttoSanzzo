@@ -30,9 +30,12 @@
 
 ## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ittosanzzo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
 
-## ![IttoSanzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ittosanzzo&count_private=true&show_icons=true&theme=Default)
+<img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
+<img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
+
+</p>
 
 <hr>
 <h3>≽ Connect with me</h3>

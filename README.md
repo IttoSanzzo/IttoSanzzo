@@ -1,6 +1,6 @@
 <div align="center">
 <h1>&ltItto Sanzzo&gt</h1>
-<p>📜A 21 years old Software Engineer from <a href="https://42.fr/en/homepage/">École 42</a> </p>
+<p>📜21 years old Software Engineer from <a href="https://42.fr/en/homepage/">École 42📜</a> </p>
 <img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage">
 <p>『A Software Engineer, a Gamer and even an Otaku, imagine that.』</p>
 <p>

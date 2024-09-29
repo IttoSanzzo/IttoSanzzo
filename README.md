@@ -1,7 +1,8 @@
 <div align="center">
 <h1>&ltItto Sanzzo&gt</h1>
+<p>📜A 21 years old Software Engineer from <a href="https://42.fr/en/homepage/">École 42</a> </p>
 <img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage">
-<p align="center">『A Software Engineer, a Gamer and even an Otaku, imagine that.』</p>
+<p>『A Software Engineer, a Gamer and even an Otaku, imagine that.』</p>
 <p>
 <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=IttoSanzzo&label=Profile%20Views&color=6&icon=0&pretty=false">
 <a href="https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32"><img alt="Wakatime" src="https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg"></a>
@@ -37,8 +38,6 @@
 
 <hr>
 </details>
-
-## [![wakatime](https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg)](https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32)
 
 ## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
 

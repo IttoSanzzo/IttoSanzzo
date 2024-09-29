@@ -1,6 +1,12 @@
-<h1 align="center">&ltItto Sanzzo&gt</h1>
-<p align="center"><img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
+<div align="center">
+<h1>&ltItto Sanzzo&gt</h1>
+<img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage">
 <p align="center">『A Software Engineer, a Gamer and even an Otaku, imagine that.』</p>
+<p>
+<img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=IttoSanzzo&label=Profile%20Views&color=6&icon=0&pretty=false">
+<a href="https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32"><img alt="Wakatime" src="https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg"></a>
+</p>
+</div>
 
 <details align="center" open>
   <summary><h1 style="display: inline">◃Languages and Tools▹</h1></summary>
@@ -28,6 +34,7 @@
 
 ## ![IttoSanzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ittosanzzo&count_private=true&show_icons=true&theme=Default)
 
+<hr>
 <h3>≽Contact Me</h3>
 <p align="left">
 
@@ -38,3 +45,8 @@
 <a href="https://www.instagram.com/ittos.sanzzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ittos.sanzzo/" height="30" width="30" /></a>
 
 </p>
+
+-   Feel free to message me, about anything, professional things, unprofessional things, code related or not, even if it's just for weeb stuff 🍵.
+-   If you wanna contact me, Discord is probably the best way to do it.
+
+<hr>

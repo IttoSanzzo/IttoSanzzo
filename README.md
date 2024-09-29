@@ -12,10 +12,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
 </a>
-</div>
-<hr>
-<details align="center" open>
-  <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
 <hr>
 <p>
 
@@ -33,9 +29,9 @@
 
 <hr>
 <img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&hide_border=true&theme=midnight-purple&text_color=00a7f6&hide=fish">
-</details>
-
 <hr>
+</div>
+
 <h3>≽ Connect with me</h3>
 <p align="left">
 

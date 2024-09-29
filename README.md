@@ -8,17 +8,12 @@
 <a href="https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32"><img alt="Wakatime" src="https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg"></a>
 </p>
 </div>
-
-<details align="center" open>
-  <summary><h1 style="display: inline">◃Languages and Tools▹</h1></summary>
 <hr>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
-<hr>
 </a>
-</details>
-
+<hr>
 <details align="center" open>
   <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
 <hr>
@@ -37,7 +32,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 
 <hr>
-<img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&hide_border=true&theme=midnight-purple&text_color=00a7f6&card_width=1500&hide=fish">
+<img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&hide_border=true&theme=midnight-purple&text_color=00a7f6&hide=fish">
 </details>
 
 <hr>

@@ -3,7 +3,7 @@
 <p align="center"><img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
 
 <details align="center" open>
-  <summary><h2 style="display: inline">◃Languages and Tools▹</h2></summary>
+  <summary><h1 style="display: inline">◃Languages and Tools▹</h1></summary>
 <hr>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
@@ -12,7 +12,7 @@
 </details>
 
 <details align="center" open>
-  <summary><h2 style="display: inline;">◃Trophies▹</h2></summary>
+  <summary><h1 style="display: inline;">◃Trophies▹</h1></summary>
 <hr>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 </details>

@@ -45,4 +45,4 @@
 -   If you wanna contact me, Discord is probably the best way to do it.
 
 <img alt="Cat" src="https://i.postimg.cc/25Sv5Rdz/CatBbbb.png">
-<p align="center"><span style="color: gray;">© 2022-Present </span><a href="https://github.com/IttoSanzzo">IttoSanzzo</a></p>
+<p align="center">© 2022-Present <a href="https://github.com/IttoSanzzo">IttoSanzzo</a></p>

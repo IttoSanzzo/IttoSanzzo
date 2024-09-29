@@ -23,11 +23,18 @@
 <hr>
 <p>
 
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6">
+
+</p>
+<p>
+
 <img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
 <img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
 
 </p>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
+
 <hr>
 </details>
 
@@ -53,7 +60,3 @@
 -   If you wanna contact me, Discord is probably the best way to do it.
 
 <hr>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6)](https://git.io/streak-stats)
-
-&text_color=00a7f6

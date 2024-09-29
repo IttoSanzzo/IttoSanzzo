@@ -14,7 +14,7 @@
 </a>
 <hr>
 <p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6">
 
 </p>
@@ -25,8 +25,8 @@
 
 </p>
 <img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&hide_border=true&theme=midnight-purple&text_color=00a7f6&hide=fish">
+</a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="IttoSanzzo Github Trophies"/></a>
-
 <hr>
 </div>
 

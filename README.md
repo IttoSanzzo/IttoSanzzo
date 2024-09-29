@@ -14,13 +14,9 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
-<hr>
-</a>
-</details>
-<details align="center" open>
-  <summary><h1 style="display: inline;">◃Trophies▹</h1></summary>
-<hr>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
+
 <hr>
 </details>
 

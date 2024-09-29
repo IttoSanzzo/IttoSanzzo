@@ -35,18 +35,20 @@
 ## ![IttoSanzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ittosanzzo&count_private=true&show_icons=true&theme=Default)
 
 <hr>
-<h3>≽Contact Me</h3>
+<h3>≽ Connect with me</h3>
 <p align="left">
 
-<a href="https://discordapp.com/users/301498447088058368" target="blank"><img align="center" src="https://i.postimg.cc/tJCkzYBH/Discord-Icon.png" alt="https://discordapp.com/users/301498447088058368" height="30" width="30" /></a>
-<a href="https://wa.me/5521964058766" target="blank"><img align="center" src="https://i.postimg.cc/c4MZCJzB/Whatsapp-Icon.png" alt="https://wa.me/5521964058766" height="30" width="30" /></a>
-<a href="mailto:konohittos+dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="konohittos+dev@gmail.com" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/ittosanzzo/" target="blank"><img align="center" src="https://i.postimg.cc/1541KK74/Linkedin-Icon.png" alt="https://www.linkedin.com/in/ittosanzzo/" height="25" width="25" /></a>
-<a href="https://www.instagram.com/ittos.sanzzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ittos.sanzzo/" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/301498447088058368" target="blank"><img align="center" src="https://i.postimg.cc/tJCkzYBH/Discord-Icon.png" alt="Discord" height="30" width="30" /></a>
+<a href="https://wa.me/5521964058766" target="blank"><img align="center" src="https://i.postimg.cc/c4MZCJzB/Whatsapp-Icon.png" alt="Whatsapp" height="30" width="30" /></a>
+<a href="mailto:konohittos+dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ittosanzzo/" target="blank"><img align="center" src="https://i.postimg.cc/1541KK74/Linkedin-Icon.png" alt="Linkedin" height="25" width="25" /></a>
+<a href="https://www.instagram.com/ittos.sanzzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
+<a href="https://myanimelist.net/profile/IttoSanzzo" target="blank"><img align="center" src="https://i.imgur.com/jQ6g6BB.png" alt="MyAnimeList" height="30" width="30" /></a>
+<a href="https://anilist.co/user/IttoSanzzo/" target="blank"><img align="center" src="https://i.imgur.com/72TZ7Dq.png" alt="Anilist" height="30" width="30" /></a>
 
 </p>
 
--   Feel free to message me, about anything, professional things, unprofessional things, code related or not, even if it's just for weeb stuff 🍵.
+-   Feel free to message me about anything, professional things, unprofessional things, code related or not, even if it's just for weeb stuff 🍵.
 -   If you wanna contact me, Discord is probably the best way to do it.
 
 <hr>

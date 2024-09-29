@@ -14,13 +14,10 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
-
 <hr>
+</a>
 </details>
 
-</details>
 <details align="center" open>
   <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
 <hr>
@@ -30,6 +27,7 @@
 <img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
 
 </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 <hr>
 </details>
 

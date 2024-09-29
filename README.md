@@ -12,12 +12,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
 </a>
+</div>
 <hr>
 <details align="center" open>
   <summary><h1 style="display: inline;">◃Github Stats▹</h1></summary>
 <hr>
 <p>
-</div>
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6">
 

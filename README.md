@@ -37,9 +37,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 
 <hr>
+<img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
 </details>
-
-## [![IttoSanzzo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ittosanzzo&layout=compact)](https://github.com/ittosanzzo)
 
 <hr>
 <h3>≽ Connect with me</h3>

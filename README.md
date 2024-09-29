@@ -12,7 +12,7 @@
 </details>
 
 <details align="center" open>
-  <summary><h1 style="display: inline;">◃Trophies▹</h1></summary>
+  <summary><h1 style="display: inline; color:red">◃Trophies▹</h1></summary>
 <hr>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 </details>

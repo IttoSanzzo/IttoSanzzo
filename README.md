@@ -30,14 +30,14 @@
 <p>
 
 <img style="display: inline" alt="IttoSanzzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
-<img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact">
+<img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact&langs_count=8">
 
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 
 <hr>
-<img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6">
+<img alt="IttoSanzzo's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IttoSanzzo&hide_border=true&theme=midnight-purple&text_color=00a7f6&card_width=1500&hide=fish">
 </details>
 
 <hr>

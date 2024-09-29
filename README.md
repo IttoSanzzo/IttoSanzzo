@@ -45,4 +45,4 @@
 -   If you wanna contact me, Discord is probably the best way to do it.
 <hr>
 
-<img alt="Cat" src="https://i.postimg.cc/NM4JT4hY/16-Sem-T-tulo-20240929061253-removebg-preview.png">
+<img alt="Cat" src="https://i.postimg.cc/vmfzsv3M/CatBbbb.png">

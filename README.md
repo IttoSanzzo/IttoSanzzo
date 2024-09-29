@@ -1,23 +1,20 @@
-<div style="border: 2px solid rgba(38, 22, 66, 1); border-radius: 15px; background-color: rgba(38, 22, 66, 0.1)">
 <h1 align="center">&ltItto Sanzzo&gt</h1>
 <p align="center">『A Software Engineer, a Gamer and even a Otaku, imagine that.』</p>
-<p align="center"><img width=400px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
-</div>
-<details align="center" style="margin-top: -2px; border: 2px solid rgba(1, 1, 1, 0.1); border-radius: 15px; background-color: rgba(38, 22, 66, 0.1)" open>
-  <summary><h2 style="display: inline; padding: 85px;margin-left: -17px;">◃Languages and Tools▹</h2></summary>
+<p align="center"><img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage"></p>
+
+<details align="center" open>
+  <summary><h2 style="display: inline">◃Languages and Tools▹</h2></summary>
 <hr>
-<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,linux,mysql,postgresql" alt="Languages and Tools">
 </a>
-</p>
 </details>
 
-<details align="center"  style="margin-top: -2px; border: 2px solid rgba(1, 1, 1, 0.1); border-radius: 15px; background-color: rgba(38, 22, 66, 0.1)" open>
-  <summary><h2 style="display: inline; padding: 143px;margin-left: -15px;">◃Trophies▹</h2></summary>
+<details align="center" open>
+  <summary><h2 style="display: inline;">◃Trophies▹</h2></summary>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1003px src="https://github-profile-trophy.vercel.app/?username=ittosanzzo&theme=algolia&no-bg=true&no-frame=true&row=1" alt="jirayusrisawat-github" /></a>
 </details>
 
 <h2 align="center">◃Waiting▹</h2>

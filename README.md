@@ -53,3 +53,7 @@
 -   If you wanna contact me, Discord is probably the best way to do it.
 
 <hr>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ittosanzzo&count_private=true&show_icons=true&theme=midnight-purple&area=true&hide_border=true&dates=00a7f6&sideNums=00a7f6&currStreakNum=00a7f6)](https://git.io/streak-stats)
+
+&text_color=00a7f6

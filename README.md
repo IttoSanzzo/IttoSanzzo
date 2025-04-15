@@ -3,14 +3,16 @@
 <p>📜21 years old Software Engineer from <a href="https://42.fr/en/homepage/">École 42</a>📜</p>
 <img width=500px src="https://i.imgur.com/yHtkpjK.png" alt="MainImage">
 <p>『A Software Engineer, a Gamer and even an Otaku, imagine that.』</p>
-<p>
-<img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=IttoSanzzo&label=Profile%20Views&color=6&icon=0&pretty=false">
 <a href="https://wakatime.com/@b6f12575-a4cd-45fe-bca3-d63aac6a5d32"><img alt="Wakatime" src="https://wakatime.com/badge/user/b6f12575-a4cd-45fe-bca3-d63aac6a5d32.svg"></a>
+<p>
+<!-- <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=IttoSanzzo&label=Profile%20Views&color=6&icon=0&pretty=false"> -->
 </p>
 <hr>
+<img src="https://wakatime.com/share/@ittosanzzo/f1c688ab-b155-4bb9-8741-63619d7164a2.svg" />
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,c,cpp,cs,dotnet" alt="Languages and Tools">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,docker,figma,linux,mysql,postgresql" alt="Languages and Tools">
+
 </a>
 <hr>
 <p>
